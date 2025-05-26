@@ -1,0 +1,33 @@
+body
+{
+    background-color: blanchedalmond;
+    color:black;  
+
+}
+.header
+{
+    background-color: rgba(212, 6, 6, 0.986);
+    color: green;
+    text-align: center;
+    padding: 8px;
+
+}
+.nav-bar-list
+{
+    background: #023e8a;
+    justify-content: center;
+    gap: 30px;
+    padding: 0px 0;
+}
+ul
+{
+    display: flex;
+    list-style-type: none;
+
+}
+
+li
+{
+    padding: 10px;
+    color: white;
+}
