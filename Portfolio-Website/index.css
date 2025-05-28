@@ -46,3 +46,11 @@ footer
     padding: 8px;
     text-align: center;
 }
+
+
+.playwrite-hu-<uniquifier> {
+  font-family: "Playwrite HU", cursive;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
