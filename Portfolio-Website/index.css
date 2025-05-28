@@ -2,6 +2,10 @@ body
 {
     background-color: blanchedalmond;
     color:black;  
+    font-family: "Playwrite HU", cursive;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
 
 }
 .header
@@ -45,12 +49,4 @@ footer
     background-color: coral;
     padding: 8px;
     text-align: center;
-}
-
-
-.playwrite-hu-<uniquifier> {
-  font-family: "Playwrite HU", cursive;
-  font-optical-sizing: auto;
-  font-weight: <weight>;
-  font-style: normal;
 }
